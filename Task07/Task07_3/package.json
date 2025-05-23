@@ -1,0 +1,19 @@
+{
+  "name": "task07_2",
+  "version": "1.0.0",
+  "main": "src/fraction.js",
+  "directories": {
+    "test": "tests"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "description": ""
+}
